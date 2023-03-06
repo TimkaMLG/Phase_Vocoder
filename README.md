@@ -1,5 +1,5 @@
 # Phase Vocoder
-Implementation of [algorythm](https://www.guitarpitchshifter.com/algorithm.html) to change the signal duration without changing the pitch.
+Implementation of [algorythm](https://www.guitarpitchshifter.com/algorithm.html) for changing the signal duration without changing the pitch.
 
 # Install
 1) Download the repository.
